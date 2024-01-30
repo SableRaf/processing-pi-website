@@ -5,7 +5,7 @@
 # Default Hugo version for all builds unless overridden by specific contexts
 [build.environment]
   HUGO_VERSION = "0.54.0"
-  NODE_VERSION = "10.24.1"
+  NODE_VERSION = "8.0.0"
 
 
 # Specific settings for deploy previews
