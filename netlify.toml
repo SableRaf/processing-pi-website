@@ -1,0 +1,23 @@
+[build]
+  publish = "public"
+  command = "hugo"
+
+# Default Hugo version for all builds unless overridden by specific contexts
+[build.environment]
+  HUGO_VERSION = "0.54.0"
+
+# Specific settings for deploy previews
+[context.deploy-preview]
+  command = "hugo --buildFuture"
+
+# Hugo version for deploy previews
+[context.deploy-preview.environment]
+  HUGO_VERSION = "0.54.0"
+
+# Specific settings for production builds
+[context.production.environment]
+  HUGO_VERSION = "0.54.0"
+
+# Specific settings for branch deploys
+[context.branch-deploy.environment]
+  HUGO_VERSION = "0.54.0"
