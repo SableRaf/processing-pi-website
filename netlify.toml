@@ -1,5 +1,5 @@
 [build]
-  command = "cd themes/processing/src && npm install && gulp && cd ../../.. && hugo"
+  command = "npm install -g gulp-cli && cd themes/processing/src && npm install && gulp && cd ../../.. && hugo"
   publish = "docs"
 
 # Default Hugo version for all builds unless overridden by specific contexts
