@@ -1,5 +1,5 @@
 [build]
-  publish = "public"
+  publish = "."
   command = "hugo"
 
 # Default Hugo version for all builds unless overridden by specific contexts
