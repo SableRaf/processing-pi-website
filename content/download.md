@@ -18,7 +18,7 @@ We don't currently have a maintainer for the Raspberry Pi release. We finally ha
 
 ~~This is the recommended, and easiest way to get started:~~
 
-Please use a more recent download from the r[releases](https://github.com/processing/processing4/releases) page on GitHub.
+Please use a more recent download from the [releases](https://github.com/processing/processing4/releases) page on GitHub.
 
 {{< button type="big" text="Download Image (1.82GB)" link="https://github.com/processing/processing/releases/download/processing-0265-3.4/processing-3.4-linux-raspbian.zip" >}}
 
