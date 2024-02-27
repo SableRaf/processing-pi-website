@@ -29,15 +29,6 @@ Processing 3.4 • Released July 2018
 
 Follow [Get Started](../get-started) for instructions how to install this image file.
 
-# Install Processing onto existing installation
-
-_Alternatively_, if you already have an existing installation of Raspbian you want to keep, you can install Processing by running the following in a terminal:
-
-```shell
-curl https://processing.org/download/install-arm.sh | sudo sh
-```
-
-
 # Tar-balls
 
 _Lastly_, if you are an expert user, and know your way around Linux, you can also manually download and install the compressed archives below. Those also come with a copy of Java built-in.
