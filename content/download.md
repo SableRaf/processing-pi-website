@@ -6,11 +6,11 @@ menu: "sidebar"
 weight: 30
 ---
 
-# Visit the official Processing website for the latest Pi releases
+# Visit Processing.org for the latest Pi releases
 
 For the most recent versions of Processing for the Pi, visit our [download page](https://processing.org/download).
 
-{{< button type="big" text="Get the Latest Release" link="https://processing.org/download" >}}
+{{< button type="big" text="Get the Latest Pi Releases" link="https://processing.org/download" >}}
 
 If you're interested in becoming a maintainer for the Raspberry Pi version of Processing, please [let us know](mailto:hello@processing.org). While we do our best to keep the Pi releases updated, our ability to produce images and provide support will be limited without additional community help.
 
@@ -20,7 +20,9 @@ Using the methods below is no longer recommended as these versions do not includ
 
 ## Raspberry Pi Image (Deprecated)
 
-The last available Raspbian image is for Processing 3.4 ([Download the Raspbian image](https://github.com/processing/processing/releases/download/processing-0265-3.4/processing-3.4-linux-raspbian.zip))
+The last available Raspbian image is for Processing 3.4 
+
+[Download the Raspbian image](https://github.com/processing/processing/releases/download/processing-0265-3.4/processing-3.4-linux-raspbian.zip) (1.82 Gb)
 
 For instructions on how to install this image file, follow [Get Started](../get-started).
 
