@@ -16,7 +16,7 @@ If you're interested in becoming a maintainer for the Raspberry Pi version of Pr
 
 # Previous Raspberry Pi Releases
 
-Using the methods below is no longer recommended as these versions do not include the most recent features and improvements introduced in Processing 4.0 and may not function on recent hardware. Please refer to our [official download page](https://processing.org/download) for the most up-to-date versions of Processing for Raspberry Pi.
+Using the methods below is no longer recommended and may not function on recent hardware. 
 
 ## Raspberry Pi Image (Deprecated)
 
