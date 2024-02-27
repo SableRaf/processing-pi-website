@@ -1,14 +1,24 @@
 ---
 title: "Download"
 date: 2017-08-20T21:38:52+08:00
-lastmod: 2017-08-28T21:41:52+08:00
+lastmod: 2024-02-27T15:20:00+02:00
 menu: "sidebar"
 weight: 30
 ---
 
+# Visit GitHub for the most recent release
+
+Processing 4.0 beta 4 now includes updated 32- and 64-bit downloads for the Pi. Download them from the [releases](https://github.com/processing/processing4/releases) page on Github. This site will be updated when someone has time.
+
+~~The most recent build is the .tgz archive toward the bottom of this page. That is version 3.5.3 which was released in February 2019.~~
+
+We don't currently have a maintainer for the Raspberry Pi release. We finally have new releases for Processing 4, but we probably won't be producing images, or able to provide much support without additional help.
+
 # Raspberry Pi Image
 
-This is the recommended, and easiest way to get started:
+~~This is the recommended, and easiest way to get started:~~
+
+Please use a more recent download from the r[releases](https://github.com/processing/processing4/releases) page on GitHub.
 
 {{< button type="big" text="Download Image (1.82GB)" link="https://github.com/processing/processing/releases/download/processing-0265-3.4/processing-3.4-linux-raspbian.zip" >}}
 
@@ -16,7 +26,6 @@ This is the recommended, and easiest way to get started:
 {{% muted %}}
 Processing 3.4 • Released July 2018
 {{% /muted %}}
-
 
 Follow [Get Started](../get-started) for instructions how to install this image file.
 
