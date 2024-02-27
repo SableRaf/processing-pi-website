@@ -1,10 +1,14 @@
 ---
 title: "Getting Started"
 date: 2017-08-20T21:38:52+08:00
-lastmod: 2017-08-28T21:41:52+08:00
+lastmod: 2024-02-27T15:59:00+02:00
 menu: "sidebar"
 weight: 20
 ---
+
+# Important Note for Raspberry Pi Users
+
+As of our latest updates, we do not have Raspbian images available for the most recent releases of Processing. The last available Raspbian image, based on Processing 3.4, is not recommended for use on newer Raspberry Pi hardware due to potential compatibility issues. We strongly advise visiting our [official download page](https://processing.org/download) for the latest versions of Processing, which offer improved features and broader hardware support. We are seeking community contributions to extend support and updates for Raspberry Pi users. Want to help? [Get in touch](mailto:hello@processing.org)!
 
 # Prerequisites
 
