@@ -6,31 +6,26 @@ menu: "sidebar"
 weight: 30
 ---
 
-# Visit GitHub for the most recent release
+# Visit the official Processing website for the latest Pi releases
 
-Processing 4.0 beta 4 now includes updated 32- and 64-bit downloads for the Pi. Download them from the [releases](https://github.com/processing/processing4/releases) page on Github. This site will be updated when someone has time.
+For the most recent versions of Processing for the Pi, visit our [download page](https://processing.org/download).
 
-~~The most recent build is the .tgz archive toward the bottom of this page. That is version 3.5.3 which was released in February 2019.~~
+{{< button type="big" text="Get the Latest Release" link="https://processing.org/download" >}}
 
-We don't currently have a maintainer for the Raspberry Pi release. We finally have new releases for Processing 4, but we probably won't be producing images, or able to provide much support without additional help.
+If you're interested in becoming a maintainer for the Raspberry Pi version of Processing, please [let us know](mailto:hello@processing.org). While we do our best to keep the Pi releases updated, our ability to produce images and provide support will be limited without additional community help.
 
-# Raspberry Pi Image
+# Previous Raspberry Pi Releases
 
-~~This is the recommended, and easiest way to get started:~~
+Using the methods below is no longer recommended as these versions do not include the most recent features and improvements introduced in Processing 4.0 and may not function on recent hardware. Please refer to our [official download page](https://processing.org/download) for the most up-to-date versions of Processing for Raspberry Pi.
 
-Please use a more recent download from the [releases](https://github.com/processing/processing4/releases) page on GitHub.
+## Raspberry Pi Image (Deprecated)
 
-{{< button type="big" text="Download Image (1.82GB)" link="https://github.com/processing/processing/releases/download/processing-0265-3.4/processing-3.4-linux-raspbian.zip" >}}
+The last available Raspbian image is for Processing 3.4 ([Download the Raspbian image](https://github.com/processing/processing/releases/download/processing-0265-3.4/processing-3.4-linux-raspbian.zip))
 
+For instructions on how to install this image file, follow [Get Started](../get-started).
 
-{{% muted %}}
-Processing 3.4 • Released July 2018
-{{% /muted %}}
+## TGZ archive of Processing 3.5.3 (Deprecated)
 
-Follow [Get Started](../get-started) for instructions how to install this image file.
-
-# Tar-balls
-
-_Lastly_, if you are an expert user, and know your way around Linux, you can also manually download and install the compressed archives below. Those also come with a copy of Java built-in.
+For those familiar with Linux, you may manually download and install the archive below, which includes a built-in copy of Java. 
 
 [processing-3.5.3-linux-armv6hf.tgz](https://github.com/processing/processing/releases/download/processing-0269-3.5.3/processing-3.5.3-linux-armv6hf.tgz) (95.5 MB)
